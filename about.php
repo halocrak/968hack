@@ -9,7 +9,7 @@ include "./includes/header.php";
 
 
 <h2>بەخیربێ من ئامانجم لەم سایتە ئەوەیە کە کورد بەرەو پیش بەرم لە تەکنەلۆجیادا و بتوان خۆیان بپاریزن و بۆ هەرکیشەیەکیش لە سۆشیال میدا توشت بوە ئەتوانی پەیوەندیمان پیوە کەی</h2>
-<h1>DEVELOPER.WIBSITE---RoMaNy 721</h1>
+<h1>DEVELOPER.WIBSITE---i4m_mrx{HALO}</h1>
 <section class="footer">
     <div class="social">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
